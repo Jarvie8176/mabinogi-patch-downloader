@@ -8,4 +8,4 @@ patch downloader for Mabinogi JP server
 
 ## How to use:
 
-simply run "python downloader.py"
+simply run `python downloader.py`
